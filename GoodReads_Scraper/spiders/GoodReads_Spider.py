@@ -1,11 +1,12 @@
 import scrapy
 import json
+
+# Initial url to crawl. CRUCIALLY, DOES NOT CONTAIN THE PAGE NUMBER.
+init_url = 'https://www.goodreads.com/author/quotes/656983.J_R_R_Tolkien?page=%s'
 # Set these two variables as the (inclusive, inclusive) number of pages to crawl.
 # By default, this spider will only crawl the first page.
 start_page = 1
 end_page = 1
-# Initial url to crawl. CRUCIALLY, DOES NOT CONTAIN THE PAGE NUMBER.
-init_url = 'https://www.goodreads.com/author/quotes/656983.J_R_R_Tolkien?page=%s'
 author_name = 'Tolkien'
 special_case = '  ―\n  '  # This sequence *appears* to IMMEDIATELY follow every quote on GoodReads
 
