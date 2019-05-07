@@ -4,7 +4,7 @@ The goal of this was project was simple: create a single python script which wil
 Python was chosen simply due to the availability of libraries. Initially, I tried using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) libary,   
 but found it too inflexible.  
 
-Instead, upon the recommendation of a friend I used [Scrapy](https://scrapy.org/) and found it significantly faster and easier to use.  
+Instead, upon the recommendation of a [friend](https://github.com/NikolasUntoten?fbclid=IwAR0OFgjtYodnWY9NpRLprwvD_bwnQhGB1bwULcWRFAwPz9YCEUzjbDfaq9g) I used [Scrapy](https://scrapy.org/) and found it significantly faster and easier to use.  
 
 Python 3.0, and Scrapy are the only necessary installations for this project to work. There are only 4 things you need to edit  
 for a succesful scrape with a different author. 
