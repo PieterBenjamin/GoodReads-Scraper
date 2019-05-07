@@ -17,4 +17,7 @@ From here, `cd` into your directory and enter the command: `scrapy crawl GoodRea
 After that, Scrapy will take care of the rest and you should have a diretory full of json files! The only element in these files  
 is an array with all of the scraped quotes from the respective page numbers (which will be included in the file names).   
 
-You are free, of course, to use the quotes however you like, but I might personally recommend the partner project to this, my [QuoteGenerator](https://github.com/PieterBenjamin/QuoteGenerator)
+You are free, of course, to use the quotes however you like, but I might personally recommend the partner project to this, my [QuoteGenerator](https://github.com/PieterBenjamin/QuoteGenerator).  
+
+
+As a final note, I ask that you please not abuse this project to create a bunch of traffic for GoodReads! 
