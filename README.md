@@ -20,4 +20,7 @@ is an array with all of the scraped quotes from the respective page numbers (whi
 You are free, of course, to use the quotes however you like, but I might personally recommend the partner project to this, my [QuoteGenerator](https://github.com/PieterBenjamin/QuoteGenerator).  
 
 
+Please note, this was done as an exercise in Scrapy and little more! I have not included any filters to quotes, and  
+GoodReads sometimes includes non-english quotes. They also do not specift who said what so I could not add that feature. 
+
 As a final note, I ask that you please not abuse this project to create a bunch of traffic for GoodReads! 
